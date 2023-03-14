@@ -10,6 +10,10 @@ function App() {
  <div>
  <Header/>
  </div>
+ <div className="text-4xl text-white">
+  The first site which gives information about OnePiece characters
+
+ </div>
  
   <div>
   <Carousel/>
